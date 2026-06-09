@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: autodevops-app
+    buildCommand: echo 'Add your build command'
+    startCommand: echo 'Add your start command'
