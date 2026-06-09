@@ -1,0 +1,24 @@
+# AutoDevOps AI Generated .gitignore
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+npm-debug.log
+.npm
+
+# General
+.DS_Store
+*.log
+*.tmp
+.idea/
+.vscode/
